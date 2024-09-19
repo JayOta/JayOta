@@ -28,7 +28,7 @@
 
 <div align="left">
   <a href="mailto:otavio.cvilela@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" target="_blank"  /></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-ot%C3%A1vio-78a733276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="35" alt="linkedin logo"></a>
+  <a href="https://www.linkedin.com/in/jayota/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="35" alt="linkedin logo"></a>
 </div>
 
 ###
