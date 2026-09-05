@@ -36,7 +36,7 @@
 jay@dev:~$ whoami
 ```
 
-Estudante de **Engenharia de Software**, tenho experiência de 4 meses como estagiário desenvolvendo com Vue.js e Laravel, e atualmente atuo com infraestrutura de TI em um ambiente hospitalar. — o que me deu uma visão prática tanto de código quanto de sistemas em produção.
+Estudante de **Engenharia de Software**, com experiência de 4 meses como estagiário desenvolvendo com **Vue.js** e **Laravel**. Atualmente atuo com infraestrutura de TI em um ambiente hospitalar — o que me deu uma visão prática tanto de código quanto de sistemas em produção.
 
 Gosto de entender como as coisas funcionam por baixo do capô: seja uma API, um servidor, ou um motor gráfico. Nas horas livres, estudo **Computer Graphics** com **Raylib** e C, só por curiosidade de como jogos e simulações são construídos.
 
@@ -56,7 +56,10 @@ SYSTEM STATUS: ONLINE ●
 ![](https://skillicons.dev/icons?i=html,css,js,vuejs,tailwind,bootstrap&theme=dark)
 
 ### BACK-END
-![](https://skillicons.dev/icons?i=php,laravel,java,cpp&theme=dark)
+![](https://skillicons.dev/icons?i=php,laravel&theme=dark)
+
+### LANGUAGES
+![](https://skillicons.dev/icons?i=cpp,java&theme=dark)
 
 ### MOBILE
 ![](https://skillicons.dev/icons?i=flutter,dart&theme=dark)
