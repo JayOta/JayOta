@@ -1,5 +1,11 @@
 ![Typing Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=SYSTEM+INITIALIZATION...;JO%C3%83O+OT%C3%81VIO+%2F+SOFTWARE+ENGINEERING;FULL+STACK+STUDENT+%7C+VUE+%2B+LARAVEL;BUILDING+REAL+SYSTEMS%2C+ONE+COMMIT+AT+A+TIME;STATUS%3A+ONLINE+%E2%97%8F)
 
+<picture> 
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayOta/JayOta/output/github-snake-dark.svg" /> <img alt="snake"       src="https://raw.githubusercontent.com/JayOta/JayOta/output/github-snake.svg" />
+</picture>
+
+<br/>
+
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00E676?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-0088FF?style=for-the-badge" />
